@@ -17,7 +17,7 @@ import com.vaadin.ui.VerticalLayout;
  * Class used to implements the wizard. This class extends
  * {@link com.vaadin.ui.VerticalLayout} to represent the Wizard.
  *
- * @author javi.serrano@gmail.com
+ * @author javi(dot)serrano
  */
 public class Wizard extends VerticalLayout {
     private static final long serialVersionUID = 1L;
