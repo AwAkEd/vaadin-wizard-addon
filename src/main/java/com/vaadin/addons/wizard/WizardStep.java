@@ -8,7 +8,7 @@ import com.vaadin.ui.VerticalLayout;
  * 
  * @see com.vaadin.ui.CustomComponent
  * 
- * @author javi.serrano@gmail.com
+ * @author javi(dot)serrano
  */
 public class WizardStep extends VerticalLayout {
 
