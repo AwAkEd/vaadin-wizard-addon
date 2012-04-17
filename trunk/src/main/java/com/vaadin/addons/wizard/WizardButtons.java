@@ -3,7 +3,7 @@ package com.vaadin.addons.wizard;
 /**
  * Enumeration to use in wizard buttons.
  * 
- * @author javi.serrano@gmail.com
+ * @author javi(dot)serrano
  */
 public enum WizardButtons {
 	/** To use in next button. */
