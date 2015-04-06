@@ -1,0 +1,1 @@
+A simple wizard generation addon for Vaadin Framework
